@@ -1,2 +1,2 @@
 # array-rotation
-Just a simple array's bidirecional rotation method.
+Just a simple array's bidirectional rotation method.
